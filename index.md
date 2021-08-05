@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm Jesus, I'm 27 years old and I'm from Mexico
